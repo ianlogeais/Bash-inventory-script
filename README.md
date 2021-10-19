@@ -1,4 +1,4 @@
 # Script-Bash-inventaire-de-tout-les-fichiers-d-une-arborescence
 
 
-/!\ Rentrer le chemin absolu du répertoire (exemple : /home/ian/test)
+/!\ Enter the absolute path of the repertory (example : /home/ian/test)
