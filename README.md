@@ -1,0 +1,1 @@
+# Script-Bash-inventaire-de-tout-les-fichiers-d-une-arborescence
