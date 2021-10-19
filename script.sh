@@ -34,5 +34,5 @@ function complet
 
 complet
 
-echo -e "\nNous avons trouvé $(cat chemin | wc -l)  fichiers"
 cat chemin
+echo -e "\nNous avons trouvé $(cat chemin | wc -l)  fichiers"
